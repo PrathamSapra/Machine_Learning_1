@@ -22,15 +22,32 @@ Covers Python fundamentals essential for ML:
   - `Task2_Github.ipynb`
 - `Lecture_01_Python_Tutorial.ipynb`
 
+#### **Module 2 – Jupyter Notebook Tutorial**
+Hands-on intro to Jupyter interface and basic operations.
 
+#### **Module 3 – Introduction to Machine Learning**
+Explains the ML lifecycle, types of ML problems, and real-world applications:
+- `Module_03_Machine_Learning.pdf`
+- `Module_03_Machine_Learning.pptx`
+- `Task3_ML_Problems_Identification.docx`
+- `Task3_ML_Problems_Identification 2.docx`
+- `Task3_ML_Problems_Identification.pdf`
+- `Task4_ML_Problem_Types.pdf`
+
+#### **Module 4 – Pandas**
+Covers data manipulation, analysis, and practice with COVID datasets:
+- `Hands_On_Pandas_Analysis.ipynb`
+- `Hands_On_Pandas_Analysis_Solution.ipynb`
+- `Lecture_02_Pandas_Covid_Analysis_Questions.ipynb`
+- `Module_04_Pandas_Tutorial.pdf`
+- `Module_04_Pandas_Tutorial (1).pptx`
+- `Pandas_Practice (1).ipynb`
+- `Task5_Pandas_Covid_Data_Analysis.pdf`
 
 ---
 
 ## 🔍 Upcoming Modules (To Be Updated Daily)
 
-- **Module 2** – Jupyter Notebook Tutorial  
-- **Module 3** – Introduction to Machine Learning  
-- **Module 4** – Pandas  
 - **Module 5** – Scikit-learn  
 - **Module 6** – Feature Selection  
 - **Module 7** – Data Preprocessing  
