@@ -56,7 +56,6 @@ Covers data manipulation, analysis, and practice with COVID datasets:
 - **Module 10** – Ensembling Techniques  
 
 ---
-
 ## 🔗 Stay Updated
 
 Visit the repo daily for:
