@@ -43,12 +43,13 @@ Covers data manipulation, analysis, and practice with COVID datasets:
 - `Module_04_Pandas_Tutorial (1).pptx`
 - `Pandas_Practice (1).ipynb`
 - `Task5_Pandas_Covid_Data_Analysis.pdf`
-
+- 
+- **Module 5** – Scikit-learn  
 ---
 
 ## 🔍 Upcoming Modules (To Be Updated Daily)
 
-- **Module 5** – Scikit-learn  
+
 - **Module 6** – Feature Selection  
 - **Module 7** – Data Preprocessing  
 - **Module 8** – ML Algorithms I  
