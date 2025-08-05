@@ -72,7 +72,7 @@ Visit the repo daily for:
 
 **Pratham Sapra**  
 Aspiring AI Engineer | Machine Learning Enthusiast  
-Currently pursuing advanced studies in **Artificial Intelligence** with a strong interest in **ML applications in industry**.
+Currently pursuing advanced studies in **Artificial Intelligence** with a strong interest in **ML applications in industry** studying **Cloud technology: Azure** as side projects and labs.
 
 ---
 
