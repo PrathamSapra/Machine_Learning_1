@@ -65,6 +65,7 @@ Visit the repo daily for:
 - New notebooks and scripts
 - Clean, well-commented code
 - Practical demonstrations of ML workflows
+ML 2 coming next
 
 ---
 
