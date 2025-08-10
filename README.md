@@ -21,6 +21,7 @@ Covers Python fundamentals essential for ML:
   - `Task2_Github.ipynb`
 - `Lecture_01_Python_Tutorial.ipynb`
 
+
 #### **Module 2 – Jupyter Notebook Tutorial**
 Hands-on intro to Jupyter interface and basic operations.
 
